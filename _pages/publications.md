@@ -15,6 +15,6 @@ Not published.
 
 $$0 \longrightarrow \mathscr{T}_X \longrightarrow \mathscr{T}_{\mathbb{P^n}}|_X \longrightarrow \mathscr{N}_{X|\mathbb{P}^n}$$
 
-*splits if and only if $X$ is linear.*
+*splits if and only if $X$ is linear. We will recall standard results about algebraic groups, following Borel, before tackling the Matusmura-Oort and Borel-Remmert theorems. Finally, we will prove the Van de Ven problem by following the work of Mustaţă and Popa.*
 
 [Download](../files/uwthesis.pdf)
